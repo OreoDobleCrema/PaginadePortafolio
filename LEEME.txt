@@ -1,0 +1,16 @@
+RUMBO AL GRAND LINE - ONE PIECE
+
+1. Extrae el ZIP completo.
+2. Entra en la carpeta one-piece.
+3. Abre index.html en tu navegador.
+
+Conserva todas las carpetas y archivos.
+Bootstrap, Bootstrap Icons e imágenes se incluyen localmente.
+El video, Google Maps y Google Fonts requieren conexión a internet.
+El botón de correo abre tu aplicación; el envío se confirma allí.
+
+README.md: instrucciones para abrir y publicar en GitHub Pages.
+REQUISITOS.md: dónde encontrar cada requisito de la práctica.
+EXPOSICION.md: guía para demostrar el funcionamiento externo e interno.
+
+Estado: sitio terminado. GitHub Pages configurado en https://oreodoblecrema.github.io/PaginadePortafolio/ (rama main, carpeta raíz).
